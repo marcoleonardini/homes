@@ -1,0 +1,30 @@
+{
+  "id": null,
+  "nombre": "Casa en venta en esquina en Achumani",
+  "enlace_anuncio": null,
+  "enlace_foto": null,
+  "plataforma": "Facebook",
+  "fecha_guardado": null,
+  "precios": [
+    {
+      "precio": 250000,
+      "fecha": null
+    }
+  ],
+  "moneda": "USD",
+  "ciudad": "La Paz",
+  "zona": "Achumani",
+  "direccion": "Avenida Javier del Granado esquina Calle 5",
+  "gps": null,
+  "tipo_vivienda": "Casa con garzonier independiente",
+  "dormitorios": 3,
+  "banos": 4,
+  "superficie_m2": 305.74,
+  "precio_por_m2": 817.70,
+  "construccion_m2": null,
+  "precio_por_construccion_m2": null,
+  "ratio_construccion_superficie": null,
+  "estado": "En venta",
+  "favorita": false,
+  "notas": "Precio ofertable: USD 250.000. Propiedad en esquina. Casa principal: 2 dormitorios en suite con ropero empotrado, uno con balcón; escritorio con balcón; living-comedor; cocina con gas domiciliario y espacio para comedor de diario; baño de visitas; terraza con parrillero. Garzonier: 1 dormitorio en suite; sala; cocina con gas domiciliario; baño de visitas. Parqueo para 2 automóviles. Contacto para agendar visita: 76745256. La superficie de 305,74 m² se considera superficie del terreno; confirmar con el anunciante. La cantidad de baños incluye 2 baños de visitas y 2 baños en suite de la casa principal, más 1 baño en suite y 1 baño de visitas del garzonier: total estimado de 6 baños."
+}
