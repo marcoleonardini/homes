@@ -25,4 +25,34 @@
   "estado": "En venta",
   "favorita": false,
   "notas": "Precio ofertable: USD 250.000. Propiedad en esquina. Casa principal: 2 dormitorios en suite con ropero empotrado, uno con balcón; escritorio con balcón; living-comedor; cocina con gas domiciliario y espacio para comedor de diario; baño de visitas; terraza con parrillero. Garzonier: 1 dormitorio en suite; sala; cocina con gas domiciliario; baño de visitas. Parqueo para 2 automóviles. Contacto para agendar visita: 76745256. La superficie de 305,74 m² se considera superficie del terreno; confirmar con el anunciante. La cantidad de baños incluye 2 baños de visitas y 2 baños en suite de la casa principal, más 1 baño en suite y 1 baño de visitas del garzonier: total estimado de 6 baños."
+},
+{
+  "id": null,
+  "nombre": "Casa en venta en La Rinconada",
+  "enlace_anuncio": "https://www.facebook.com/reel/1777447376827669",
+  "enlace_foto": null,
+  "plataforma": "Facebook",
+  "fecha_guardado": null,
+  "precios": [
+    {
+      "precio": 670000,
+      "fecha": null
+    }
+  ],
+  "moneda": "USD",
+  "ciudad": "La Paz",
+  "zona": "La Rinconada",
+  "direccion": null,
+  "gps": null,
+  "tipo_vivienda": "Casa independiente en condominio residencial cerrado",
+  "dormitorios": 4,
+  "banos": null,
+  "superficie_m2": 600,
+  "precio_por_m2": 1116.67,
+  "construccion_m2": 456,
+  "precio_por_construccion_m2": 1469.30,
+  "ratio_construccion_superficie": 0.76,
+  "estado": "En venta",
+  "favorita": false,
+  "notas": "Anuncio publicado por AltaVision Inmobiliaria en Facebook Reels. Precio de venta: USD 670.000. Terreno de 600 m² y construcción de 456 m². Cuenta con 4 dormitorios, 2 de ellos en suite. Dormitorio principal con 2 vestidores. Sala de estar en el segundo piso. Oficina con área de descanso. Cocina espaciosa con horno empotrado y gas domiciliario. Dos livings con chimenea y comedor amplio. Parrillero. Jardín con árboles frutales y flores. Dependencias para empleada. Ubicada en una zona residencial cerrada de La Rinconada; confirmar ubicación exacta, dirección, cantidad de baños y si el precio es negociable. Contacto para visitas: 77550065."
 }
